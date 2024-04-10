@@ -1,0 +1,10 @@
+{
+    "users": [
+      {
+        "nombre": "Juan",
+        "rol": "Admin",
+        "estado": "Activo",
+        "id": "1"
+      }
+    ]
+  }
